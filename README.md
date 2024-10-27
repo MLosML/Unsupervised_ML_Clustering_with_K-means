@@ -3,6 +3,8 @@
 Moosic's Automated Playlist Creation Project
 Background: Moosic, a start-up creating curated playlists, is scaling up fast. To streamline playlist creation, they’re leveraging Data Science. Using a dataset with audio features collected from the Spotify API, your mission is to automate playlist creation using a clustering algorithm such as K-Means.
 
+In this context, we’re dealing with songs that don’t have pre-defined labels or categories—we only have their audio features. By using K-Means clustering, we’re essentially letting the algorithm group similar songs together based on those features, without any prior knowledge of genres or playlists. It’s about discovery rather than instruction: the algorithm is figuring out the clusters on its own rather than being told what to look for.
+
 Steps Taken:
 
 Data Collection:
