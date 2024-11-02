@@ -29,10 +29,6 @@ Genre Assignment: Each song assigned a genre based on defined criteria.
 
 Playlist Assignment: Each genre linked to a specific playlist.
 
-Key Code Snippets:
-![image](https://github.com/user-attachments/assets/a9a33631-1e40-4a73-bde2-61472eb8cc70)
-
-
 Outcome: An initial prototype divides the dataset into clusters (playlists), assigning genres and linking them to specific playlists.
 
 **Discussion Points:**
